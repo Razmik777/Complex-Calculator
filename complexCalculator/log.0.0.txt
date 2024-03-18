@@ -1,0 +1,40 @@
+мар. 17, 2024 10:19:59 PM project.operations.util.UserChoice choice
+INFO: Выберите действие: 
+мар. 17, 2024 10:19:59 PM project.operations.util.UserChoice choice
+INFO: 1. Сложение
+мар. 17, 2024 10:19:59 PM project.operations.util.UserChoice choice
+INFO: 2. Умножение
+мар. 17, 2024 10:19:59 PM project.operations.util.UserChoice choice
+INFO: 3. Деление
+мар. 17, 2024 10:20:45 PM project.operations.util.UserChoice choice
+INFO: Выберите действие: 
+мар. 17, 2024 10:20:45 PM project.operations.util.UserChoice choice
+INFO: 1. Сложение
+мар. 17, 2024 10:20:45 PM project.operations.util.UserChoice choice
+INFO: 2. Умножение
+мар. 17, 2024 10:20:45 PM project.operations.util.UserChoice choice
+INFO: 3. Деление
+мар. 17, 2024 10:22:33 PM project.operations.UserChoice choice
+INFO: Выберите действие: 
+мар. 17, 2024 10:22:33 PM project.operations.UserChoice choice
+INFO: 1. Сложение
+мар. 17, 2024 10:22:33 PM project.operations.UserChoice choice
+INFO: 2. Умножение
+мар. 17, 2024 10:22:33 PM project.operations.UserChoice choice
+INFO: 3. Деление
+мар. 18, 2024 5:44:23 PM project.operations.UserChoice choice
+INFO: Выберите действие: 
+мар. 18, 2024 5:44:23 PM project.operations.UserChoice choice
+INFO: 1. Сложение
+мар. 18, 2024 5:44:23 PM project.operations.UserChoice choice
+INFO: 2. Умножение
+мар. 18, 2024 5:44:23 PM project.operations.UserChoice choice
+INFO: 3. Деление
+мар. 18, 2024 5:45:00 PM project.operations.UserChoice choice
+INFO: Выберите действие: 
+мар. 18, 2024 5:45:00 PM project.operations.UserChoice choice
+INFO: 1. Сложение
+мар. 18, 2024 5:45:00 PM project.operations.UserChoice choice
+INFO: 2. Умножение
+мар. 18, 2024 5:45:00 PM project.operations.UserChoice choice
+INFO: 3. Деление
